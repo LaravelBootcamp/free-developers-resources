@@ -1,6 +1,7 @@
-# Awesome Free Developer Resources
+## Awesome Free Developer Resources
+> Author - [Sujon Ahmed](https://github.com/Sujon-Ahmed)
 
-## Table Of Contents:
+### Table Of Contents:
 
 - [Accessibility](#accessibility)
 - [Design](#design)
