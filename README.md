@@ -275,6 +275,7 @@
 - [CSS Validator](https://codebeautify.org/cssvalidate)
 - [JSLint](http://www.jslint.com/) - JavaScript Code Quality Tool
 - [embold](https://embold.io/) - Code analysis
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile regression testing; free package, with possible model, browser, or device provider costs
 
 ## In-Browser Coding
 
