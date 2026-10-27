@@ -71,6 +71,7 @@
 - [Dribbble](https://dribbble.com/)
 - [Onepagelove](https://onepagelove.com/inspiration)
 - [Webframe](https://webframe.xyz/)
+- [Design Details](https://designdetails.io/) - free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns
 
 ### Design Tools
 
